@@ -21,7 +21,7 @@ footer-links:
   email: Jainaba5@uw.edu
   facebook:
   flickr:
-  rss: J # just type anything here for a working RSS icon
+  rss:  # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
